@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "common toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwb521fang/utils.git"
+  },
+  "keywords": [
+    "[\"utils\"",
+    "\"format\"",
+    "\"money\"",
+    "\"phone\"]"
+  ],
+  "author": "zwb21fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwb521fang/utils/issues"
+  },
+  "homepage": "https://github.com/zwb521fang/utils#readme"
+}
