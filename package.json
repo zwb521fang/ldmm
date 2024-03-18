@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zwb521fang/utils.git"
+    "url": "git+https://github.com/zwb521fang/zwbutils.git"
   },
   "keywords": [
     "[\"utils\"",
@@ -21,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/zwb521fang/zwbutils/issues"
   },
-  "homepage": "https://github.com/zwb521fang/utils#readme"
+  "homepage": "https://github.com/zwb521fang/zwbutils#readme"
 }
