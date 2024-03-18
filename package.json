@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "zwbutils",
   "version": "1.0.0",
   "description": "common toolkit",
   "main": "index.js",
