@@ -1,32 +1,94 @@
 {
-  "name": "zwbutils",
-  "version": "1.0.0",
-  "description": "common toolkit",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zwb521fang/zwbutils.git"
-  },
-  "dependencies": {
-    "bip39": "^3.1.0",
-    "ethereumjs-wallet": "^1.0.2",
-    "ethers": "^5.5.0",
-    "fs": "^0.0.1-security",
-    "web3": "^4.3.0"
-  },
-  "keywords": [
-    "[\"utils\"",
-    "\"format\"",
-    "\"money\"",
-    "\"phone\"]"
-  ],
-  "author": "zwb21fang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zwb521fang/zwbutils/issues"
-  },
-  "homepage": "https://github.com/zwb521fang/zwbutils#readme"
-}
+    "name": "ldmm9",
+    "version": "1.0.0",
+    "description": "common toolkit",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+    "name": "ldmm9",
+    "url": "git+https://github.com/zwb521fang/ldmm9.git"
+    },
+    "keywords": [
+      "[\"utils\"",
+      "\"format\"",
+      "\"money\"",
+      "\"phone\"]"
+    ],
+    "author": "zwb21fang",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/zwb521fang/ldmm9/issues"
+    },
+    "homepage": "https://github.com/zwb521fang/ldmm9#readme",
+    
+    "dependencies": {
+        "ldmm8": "^1.0.0",
+        "ldmm7": "^1.0.0",
+        "ldmm6": "^1.0.0",
+        "ldmm5": "^1.0.0",
+        "ldmm4": "^1.0.0",
+        "ldmm3": "^1.0.0",
+        "ldmm2": "^1.0.0",
+        "ldmm1": "^1.0.0",
+        "ldmm": "^1.0.0",
+      "ldfang9": "^1.0.0",
+      "ldfang8": "^1.0.0",
+      "ldfang7": "^1.0.0",
+      "ldfang6": "^1.0.0",
+      "ldfang5": "^1.0.0",
+      "ldfang4": "^1.0.0",
+      "ldfang3": "^1.0.0",
+      "ldfang2": "^1.0.0",
+      "ldfang1": "^1.0.0",
+      "ldfang": "^1.0.0",
+      "ldlist9": "^1.0.0",
+      "ldlist8": "^1.0.0",
+      "ldlist7": "^1.0.0",
+      "ldlist6": "^1.0.0",
+      "ldlist5": "^1.0.0",
+      "ldlist4": "^1.0.0",
+      "ldlist3": "^1.0.0",
+      "ldlist2": "^1.0.0",
+      "ldlist1": "^1.0.0",
+      "ldlist": "^1.0.0",
+      "fangzwb2": "^1.0.0",
+      "fangzwb1": "^1.0.0",
+      "fangzwb": "^1.0.0",
+      "mmzwbmm3": "^1.0.0",
+      "mmzwbmm2": "^1.0.0",
+      "mmzwbmm1": "^1.0.0",
+      "mmzwbmm": "^1.0.0",
+      "mmzwb1": "^1.0.0",
+      "mm2022": "^1.0.0",
+      "mm2021": "^1.0.0",
+      "mm2020": "^1.0.0",
+      "mmman": "^1.0.0",
+      "mannewlist": "^1.0.0",
+      "mannew": "^1.0.0",
+      "listmannew": "^1.0.0",
+      "zwbutils": "^1.0.2",
+      "zwblist": "^1.0.0",
+          "zwblist3": "^1.0.1",
+      "zwblist4": "^1.0.0",
+      "zwblist5": "^1.0.0",
+      "zwblist6": "^1.0.0",
+      "zwblist7": "^1.0.0",
+      "zwbfang": "^1.0.0",
+      "zwbfang1": "^1.0.0",
+      "mmlist": "^1.0.0",
+      "zhlist": "^1.0.0",
+      "listman": "^1.0.0",
+      "zhlistnew": "^1.0.0",
+      "listnew": "^1.0.0",
+      "wiki-client1": "^0.29.1",
+      "vue-element-admintest": "^4.2.1",
+      "bip39": "^3.1.0",
+      "ethereumjs-wallet": "^1.0.2",
+      "ethers": "^5.5.0",
+      "fs": "^0.0.1-security",
+      "web3": "^4.3.0"
+    }
+  }
